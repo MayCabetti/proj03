@@ -34,7 +34,7 @@ O programa exibe um menu interativo com opções de produtos de uma cafeteria. O
 
 ---
 
-## 💡 Conceitos utilizados
+## 💡 Conceitos Utilizados
 
 - Estruturas de repetição (`while` e `do...while`)
 - Condicionais (`if / else`)
